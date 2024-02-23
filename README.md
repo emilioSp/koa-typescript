@@ -1,2 +1,2 @@
 # koa-typescript
-A simple test with minimal typescript configuration
+A simple Node.js server with minimal typescript configuration
